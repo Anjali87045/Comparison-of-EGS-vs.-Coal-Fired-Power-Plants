@@ -62,8 +62,8 @@ The comparative analysis concluded that **Enhanced Geothermal Systems (EGS)** ar
 ---
 
 ## 👥 Contributors
-- **Adarsh Mudgal**
-- **Anant Kumar Nayak** 
+- **Anjali Kumari**
+- **Anishka Raj** 
 
 ---
 
